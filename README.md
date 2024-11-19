@@ -4,6 +4,15 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 
 ## 🚀 Sobre Mim
 Sou estudante do 2º ano do Ensino Médio com formação técnica em Informática pelo Instituto Federal do Maranhão (IFMA). Tenho 17 anos, moro em Açailândia (MA) e estou explorando o mundo da programação enquanto descubro minha área de maior afinidade na tecnologia
+<p>
+🔹Apaixonada por filmes de terror 🎥
+</p>
+<p>
+🔹Proativa, criativa e sempre em busca de novos aprendizados.
+</p>
+<p>
+🔹Boa em comunicação e trabalho em equipe.
+</p>
   
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
