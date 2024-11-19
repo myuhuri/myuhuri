@@ -16,9 +16,9 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 <div style="display: flex">
 <br>
 
-[![linkedin](https://www.linkedin.com/in/thaemilly-sousa-oliveira-7816592a2/)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/thaemilly-sousa-oliveira-7816592a2/)
 
-[![instagram](https://www.instagram.com/thaemiillly/)
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)]((https://www.instagram.com/thaemiillly/))
 </div>
 
 
