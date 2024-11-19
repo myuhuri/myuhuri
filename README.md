@@ -20,8 +20,7 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ### 📊 Estatísticas no GitHub:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimyuhurianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimyuhurianuraghazra)](https://github.com/myuhuri)
 
 <h2>Redes Sociais</h2>
 
