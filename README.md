@@ -20,7 +20,7 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 <div align="center">
-  <a href="https://github.com/0GustavoAmorim">
+  <a href="[https://github.com/0GustavoAmorim](https://github.com/myuhuri)">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=0GustavoAmorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GustavoAmorim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
