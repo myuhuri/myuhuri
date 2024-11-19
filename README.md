@@ -20,5 +20,5 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)]((https://www.instagram.com/thaemiillly/))
 </div>
-
+  <a href = "mailto:thaemillytata73365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
