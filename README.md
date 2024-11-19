@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 # Olá! Eu sou Thaemilly Sousa Oliveira 👋
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
