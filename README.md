@@ -16,6 +16,8 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
 
 <h2>Redes Sociais</h2>
 
