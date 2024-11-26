@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
-#Olá! Eu sou Thaemilly Sousa Oliveira 👋
+Olá! Eu sou Thaemilly Sousa Oliveira 👋
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
 ## 🚀 Sobre Mim
@@ -19,8 +19,6 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-### 📊 Estatísticas no GitHub:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimyuhurianuraghazra)](https://github.com/myuhuri)
 
 <h2>Redes Sociais</h2>
 
