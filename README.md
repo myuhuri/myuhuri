@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
-Olá! Eu sou Thaemilly Sousa Oliveira 👋
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
+Olá! Eu sou Thaemilly Sousa Oliveira!! :)
 
 ## 🚀 Sobre Mim
 Sou estudante do 2º ano do Ensino Médio com formação técnica em Informática pelo Instituto Federal do Maranhão (IFMA). Tenho 17 anos, moro em Açailândia (MA) e estou explorando o mundo da programação enquanto descubro minha área de maior afinidade na tecnologia
