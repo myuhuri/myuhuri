@@ -24,17 +24,19 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 <div style="display: flex">
 <br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/thaemilly-sousa-oliveira-7816592a2/)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=2c4541)](https://www.linkedin.com/in/thaemilly-sousa-oliveira-7816592a2/)
 
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)]((https://www.instagram.com/thaemiillly/))
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=2c4541)]((https://www.instagram.com/thaemiillly/))
 </div>
-  <a href = "mailto:thaemillytata73365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thaemillytata73365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=2c4541" target="_blank"></a>
 
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/83Rafa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myuhuri&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myuhuri&compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=myuhuri&true&theme=gotham)
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=myuhuri&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
