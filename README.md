@@ -30,8 +30,11 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 </div>
   <a href = "mailto:thaemillytata73365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myuhuri&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=0arKes&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=20&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0arKes&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=%20&line=F12A37&point=91040D&color=E1E1E1" height="290" alt="activity-graph graph"  />
 </div>
+<br>
+<div align="center">
+  <a href="https://github.com/83Rafa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myuhuri&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myuhuri&compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
