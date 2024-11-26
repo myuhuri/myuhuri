@@ -31,5 +31,5 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
   <a href = "mailto:thaemillytata73365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### 📊 Estatísticas no GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myuhuri=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myuhuricolor=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
