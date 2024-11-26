@@ -31,3 +31,5 @@ Sou estudante do 2º ano do Ensino Médio com formação técnica em Informátic
 </div>
   <a href = "mailto:thaemillytata73365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimyuhurianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
