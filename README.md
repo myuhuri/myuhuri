@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c4541&height=120&section=header"/>
 
 ## ✭ Sobre Mim
-Olá! Eu sou Thaemilly Sousa Oliveira!! Sou estudante do 2º ano do Ensino Médio com formação técnica em Informática pelo Instituto Federal do Maranhão (IFMA). Tenho 17 anos, estou explorando o mundo da programação enquanto descubro minha área de maior afinidade na tecnologia :)).
+Olá! Eu sou Thaemilly Sousa Oliveira!! Sou estudante do 3º ano do Ensino Médio com formação técnica em Informática pelo Instituto Federal do Maranhão (IFMA). Tenho 17 anos, estou explorando o mundo da programação enquanto descubro minha área de maior afinidade na tecnologia :)).
 <p>
 ⋆Apaixonada por filmes de terror 🎥
 </p>
